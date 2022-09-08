@@ -1,4 +1,4 @@
 # Openplanet Next style
 Trackmania Next style for the Openplanet overlay.
 
-![](/Screenshot.png)
+![](/Screenshot.jpg)
