@@ -1,0 +1,24 @@
+[Style]
+WindowRounding = 10
+WindowTitleAlign = [ 0.5, 0.5 ]
+WindowBorderSize = 0
+
+[Colors]
+WindowBg = "#012118F0"
+FrameBgHovered = "#023828F0"
+FrameBgActive = "#024934F0"
+TextDisabled = "#FFFFFF5F"
+TitleBg = "#05684F"
+TitleBgActive = "#05795C"
+TitleBgCollapsed = "#05684F"
+MenuBarBg = "#045B44"
+Button = "#00A565"
+ButtonHovered = "#00B76E"
+ButtonActive = "#009157"
+CheckMark = "#00A565"
+Header = "#00A565"
+HeaderHovered = "#00B76E"
+HeaderActive = "#009157"
+PopupBg = "#012118F0"
+SliderGrab = "#00A565"
+SliderGrabActive = "#009157"
