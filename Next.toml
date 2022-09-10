@@ -1,27 +1,36 @@
+# Generated with Overlay Style Manager 1.0
+
 [Style]
 WindowRounding = 10
 WindowTitleAlign = [ 0.5, 0.5 ]
-WindowBorderSize = 0
 
 [Colors]
+TextDisabled = "#FFFFFF5F"
 WindowBg = "#012118F0"
+PopupBg = "#012118F0"
 FrameBgHovered = "#023828F0"
 FrameBgActive = "#024934F0"
-TextDisabled = "#FFFFFF5F"
 TitleBg = "#05684F"
 TitleBgActive = "#05795C"
 TitleBgCollapsed = "#05684F"
 MenuBarBg = "#045B44"
+CheckMark = "#00A565"
+SliderGrab = "#00A565"
+SliderGrabActive = "#009157"
 Button = "#00A565"
 ButtonHovered = "#00B76E"
 ButtonActive = "#009157"
-CheckMark = "#00A565"
 Header = "#00A565"
 HeaderHovered = "#00B76E"
 HeaderActive = "#009157"
-PopupBg = "#012118F0"
-SliderGrab = "#00A565"
-SliderGrabActive = "#009157"
+SeparatorHovered = "#00B76EE0"
+SeparatorActive = "#009157"
+ResizeGripHovered = "#00B76E"
+ResizeGripActive = "#009157"
 Tab = "#05684FD7"
 TabHovered = "#00B76EC7"
 TabActive = "#00A565"
+TableHeaderBg = "#003A23"
+TableBorderStrong = "#000C07"
+TableBorderLight = "#000C07"
+TextSelectedBg = "#00B36998"
